@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Diego from Brazil<br>- 🔭 I’m working as Support Analyst<br>- 📚 I'm currently learning Backend languages, like Python, Django and Go<br>- ⚡I'm on a learning journey focused on technologies for Backend and DevOps</p>
+<p align="left">I'm Diego from Brazil<br>- 🔭 I’m working as Support Analyst<br>- 📚 I'm currently learning Fullstack languages, like Javascript, React and Nodejs<br>- ⚡I'm on a learning journey focused on technologies for be a Fullstack developer</p>
 
 ###
 
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img width="12" />
