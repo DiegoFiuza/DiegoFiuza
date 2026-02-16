@@ -1,66 +1,72 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/diego-nasser-fiuza-2b7ab1237/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26" />
   </a>
   <a href="mailto:nasserdiegof@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26" />
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">👋Hey there, welcome to my profile</h1>
+<h1 align="center">Backend Developer in Progress 🚀</h1>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DiegoFiuza.DiegoFiuza&"  />
-</div>
+## 👨‍💻 About Me
 
-###
+- 💼 Support Analyst with 3+ years of experience  
+- 🎓 Information Systems student  
+- 🧠 Focused on Backend development with Node.js ecosystem  
+- 🔐 Interested in scalable APIs, authentication, and clean architecture  
+- 📈 Constantly building and improving real-world backend projects  
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p align="left">I'm Diego from Brazil<br>- 🔭 I’m working as Support Analyst<br>- 📚 I'm currently learning Fullstack languages, like Javascript, React and Nodejs<br>- ⚡I'm on a learning journey focused on technologies for be a Fullstack developer</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoFiuza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoFiuza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoFiuza&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFiuza&layout=compact&theme=dracula" height="150"/>
 </div>
 
-###
+---
+
+## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DiegoFiuza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DiegoFiuza&theme=dark" height="200"/>
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
 </div>
 
-###
+---
+
+## 🎯 Current Focus
+
+- REST APIs with NestJS  
+- Authentication (JWT + Cookies)  
+- MongoDB & relational databases  
+- Clean Architecture & best practices  
+- Preparing for backend internship opportunities  
+
