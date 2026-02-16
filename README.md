@@ -26,14 +26,15 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DiegoFiuza&show_icons=true&theme=dracula&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DiegoFiuza&show_icons=true&theme=dracula" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFiuza&layout=compact&theme=dracula&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DiegoFiuza&layout=compact&theme=dracula" 
     height="160"
   />
 </div>
+
 ---
 
 ## 🔥 Streak Stats
